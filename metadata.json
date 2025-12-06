@@ -1,0 +1,5 @@
+{
+  "name": "ProcessumAir",
+  "description": "An autonomous data cleaning and feature engineering agent that iteratively prepares your datasets for machine learning.",
+  "requestFramePermissions": []
+}
